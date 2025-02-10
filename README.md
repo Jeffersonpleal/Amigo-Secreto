@@ -2,14 +2,14 @@
 #Cria uma lista com o nome dos amigos e sorteia aleatoriamente um amigo secreto.
 Permite inserir o nome de amigos numa lista. Realiza o sorteio aleatório de um dos nomes. Usa um botão Adicionar. Exibe os nomes inseridos na página.
 
-FUNCIONALIDADES:
+#FUNCIONALIDADES:
 
-#1-Adicionar amigo:
-#  Adiciona os nomes dos amigos. Caso seja informado espaço em branco será exibida a mensagem "Por favor, insira um nome"
-#2-Exibir amigos:
-#  Toda vez que for inserido um amigo o nome será exibido abaixo do botão adicionar.
-#3-Sortear amigo:
-#  Sorteia aleatoriamente um nome da lista de amigos.
+1-Adicionar amigo:
+  Adiciona os nomes dos amigos. Caso seja informado espaço em branco será exibida a mensagem "Por favor, insira um nome"
+2-Exibir amigos:
+  Toda vez que for inserido um amigo o nome será exibido abaixo do botão adicionar.
+3-Sortear amigo:
+  Sorteia aleatoriamente um nome da lista de amigos.
 
 #Como o usuário pode utilizar:
 
